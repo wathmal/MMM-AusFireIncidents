@@ -1,0 +1,28 @@
+<mxfile host="Electron" modified="2023-10-03T09:58:13.375Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/22.0.1 Chrome/114.0.5735.289 Electron/25.8.4 Safari/537.36" etag="Mo2X8ZvAVd2lX5wiA9_T" version="22.0.1" type="device">
+  <diagram name="Page-1" id="7toYmL_a57TbiMrYIjBl">
+    <mxGraphModel dx="1114" dy="854" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="wF3fKzPeM5O2ackiu1gV-1" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e3c800;strokeColor=#B09500;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="65" y="180" width="375" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wF3fKzPeM5O2ackiu1gV-2" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#f0a30a;strokeColor=#BD7000;fontColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="65" y="300" width="375" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wF3fKzPeM5O2ackiu1gV-3" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#e51400;strokeColor=#B20000;fontColor=#ffffff;" vertex="1" parent="1">
+          <mxGeometry x="65" y="420" width="375" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="wF3fKzPeM5O2ackiu1gV-4" value="LOCATION: PACIFIC MTWY, BAR POINT 2083 &lt;br style=&quot;font-size: 13px;&quot;&gt;SIZE: 0 ha " style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="wF3fKzPeM5O2ackiu1gV-5" value=" 1072 HAWKESBURY RIVER, LITTLE WOBBY 2256 " style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="325" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="wF3fKzPeM5O2ackiu1gV-7" value="STATUS: Out of control &lt;br style=&quot;font-size: 13px;&quot;&gt;TYPE: MVA/Transport &lt;br style=&quot;font-size: 13px;&quot;&gt;FIRE: No " style="text;html=1;strokeColor=none;fillColor=none;align=right;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=13;" vertex="1" parent="1">
+          <mxGeometry x="200" y="210" width="180" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
